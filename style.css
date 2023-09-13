@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    margin-top: 200px;
+   
+}
+#btn{
+    border: 1px white solid;
+    background-color:whitesmoke;
+    color: black;
+    border-radius: 15px;
+    padding: 5px;
+}
